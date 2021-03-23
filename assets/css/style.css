@@ -21,6 +21,7 @@ header{
     line-height: 120px;
     margin: auto;
     display: flex;
+    align-items: center;
     justify-content: space-between;
 }
 .header-logo{
@@ -30,6 +31,9 @@ header{
 .header-logo span{
     margin: 20px;
 }
+.header-icons {
+    margin-top: 18px;
+}
 .header-icons img{
-    margin: 0 10px;
+    margin: 0 15px;
 }
