@@ -30,3 +30,6 @@ header{
 .header-logo span{
     margin: 20px;
 }
+.header-icons img{
+    margin: 0 10px;
+}
