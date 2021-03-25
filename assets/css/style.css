@@ -39,7 +39,7 @@ header{
 }
 .banner{
     width: 100%;
-    height: 450px;
+
 }
 .banner img{
     width: 100%;
@@ -55,9 +55,14 @@ header{
     font-weight: normal;
     margin: auto;
 }
-
-
-
+.promocao{
+    font-weight: bolder;
+    font-size: 1.6em;
+}
+.produtos{
+    font-weight: bolder;
+    font-size: 1.2em;
+}
 
 
 
@@ -140,6 +145,23 @@ header{
     }
     .banner img{
         height: 187.5px;
+    }
+    .banner-prod{
+        width: 90%;
+        height: 40px;
+        display: flex;
+        justify-content: space-between;
+        line-height: 40px;
+        font-weight: normal;
+        margin: auto;
+    }
+    .promocao{
+        font-weight: bolder;
+        font-size: 1em;
+    }
+    .produtos{
+        font-weight: bolder;
+        font-size: .8em;
     }
 
 
