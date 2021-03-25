@@ -39,14 +39,22 @@ header{
 }
 .banner{
     width: 100%;
-    height: 412.5px;
+    height: 450px;
 }
 .banner img{
     width: 100%;
     height: 100%;
     margin: auto;
 }
-
+.banner-prod{
+    width: 90%;
+    height: 100px;
+    display: flex;
+    justify-content: space-between;
+    line-height: 100px;
+    font-weight: normal;
+    margin: auto;
+}
 
 
 
