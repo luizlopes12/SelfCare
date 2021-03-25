@@ -38,13 +38,14 @@ header{
     margin: 0 15px;
 }
 .banner{
-    width: 100%;
-
+    width: 100%;    
+    border-bottom: .5px solid #A5A1A1;
 }
 .banner img{
     width: 100%;
     height: 100%;
     margin: auto;
+    
 }
 .banner-prod{
     width: 90%;
@@ -61,7 +62,7 @@ header{
 }
 .produtos{
     font-weight: bolder;
-    font-size: 1.2em;
+    font-size: 1.3em;
 }
 
 
