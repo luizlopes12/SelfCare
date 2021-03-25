@@ -39,7 +39,7 @@ header{
 }
 .banner{
     width: 100%;    
-    border-bottom: .5px solid #bebbbb;
+    box-shadow: 0 0 3px 0 #A5A1A1;
 }
 .banner img{
     width: 100%;
@@ -149,10 +149,10 @@ header{
     }
     .banner-prod{
         width: 90%;
-        height: 40px;
+        height: 50px;
         display: flex;
         justify-content: space-between;
-        line-height: 40px;
+        line-height: 50px;
         font-weight: normal;
         margin: auto;
     }
