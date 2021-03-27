@@ -72,6 +72,7 @@ main{
 }
 .itens{
     display: flex;
+
 }
 .item{
     height: 500px;
