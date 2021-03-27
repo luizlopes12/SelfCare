@@ -68,7 +68,6 @@ main{
     margin: 50px auto;
     width: 100%;
     display: flex;
-    justify-content: space-around;
     height: 1000px;
 }
 .itens{
@@ -76,6 +75,7 @@ main{
 }
 .item{
     height: 500px;
+    width: 400px;
     overflow: hidden;
 }
 .item-image{
