@@ -66,9 +66,13 @@ header{
 }
 main{
     margin: 50px auto;
-    width: 90%;
+    width: 100%;
     display: flex;
+    justify-content: space-around;
     height: 1000px;
+}
+.itens{
+    display: flex;
 }
 .item{
     height: 500px;
@@ -84,7 +88,15 @@ main{
     left: -50px;
     height: 350px;
 }
-
+.item p{
+    margin-top: 10px;
+    font-weight: bolder;
+    font-size: 1.3em;
+}
+.grana span{
+    font-size: 1.2em;
+    color: #5CA720;
+}
 
 
 
@@ -180,7 +192,37 @@ main{
         font-size: .8em;
     }
 
+    main{
+        margin: 10px auto;
+        width: 100%;
+        display: flex;
+        justify-content: space-around;
+        height: 1000px;
+    }
 
+    .item{
+        height: 150px;
+        overflow: hidden;
+    }
+    .item-image{
+        overflow: hidden;
+        width: 150px;
+        border-radius: 15px;
+    }
+    .item img{
+        position: relative;
+        left: -50px;
+        height: 150px;
+    }
+    .item p{
+        margin-top: 10px;
+        font-weight: bolder;
+        font-size: 1.3em;
+    }
+    .grana span{
+        font-size: 1.2em;
+        color: #5CA720;
+    }
 }
 @media(max-width: 500px){
     .banner img{
