@@ -74,6 +74,10 @@ main{
     display: flex;
 
 }
+.item a{
+    text-decoration: none;
+    color: #161616;
+}
 .item{
     height: 500px;
     width: 400px;
