@@ -206,6 +206,7 @@ main{
     }
 
     .item{
+        display: none;
         height: 150px;
         overflow: hidden;
     }
