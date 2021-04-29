@@ -222,10 +222,10 @@ main{
     .item p{
         margin-top: 10px;
         font-weight: bolder;
-        font-size: .8em;
+        font-size: .9em;
     }
     .grana span{
-        font-size: 1.2em;
+        font-size: .9em;
         color: #5CA720;
     }
 }
