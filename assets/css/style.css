@@ -39,7 +39,7 @@ header{
 }
 .banner{
     width: 100%;    
-    box-shadow: 0 0 3px 0 #A5A1A1;
+    box-shadow: 0 0 1px 0 #A5A1A1;
 }
 .banner img{
     width: 100%;
@@ -100,7 +100,12 @@ main{
     font-size: 1.2em;
     color: #5CA720;
 }
-
+footer{
+    background-color: #F9F9F9;
+    box-shadow: 0 0 1px 0 #A5A1A1;
+    width: 100%;
+    height: 300px;
+}
 
 
 
@@ -198,7 +203,7 @@ main{
     .item{
         height: 170px;
         position: relative;
-        left: -5px;
+        left: -5%;
         width: 120px;
         margin: auto;
     }
