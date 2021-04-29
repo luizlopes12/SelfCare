@@ -206,8 +206,7 @@ main{
     }
 
     .item{
-        display: none;
-        height: 150px;
+        height: 200px;
         overflow: hidden;
     }
     .item-image{
@@ -223,7 +222,7 @@ main{
     .item p{
         margin-top: 10px;
         font-weight: bolder;
-        font-size: 1.3em;
+        font-size: .8em;
     }
     .grana span{
         font-size: 1.2em;
