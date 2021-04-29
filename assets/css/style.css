@@ -80,18 +80,18 @@ main{
 }
 .item{
     height: 500px;
-    width: 400px;
+    width: 300px;
     overflow: hidden;
 }
 .item-image{
     overflow: hidden;
-    width: 400px;
+    width: 300px;
     border-radius: 15px;
 }
 .item img{
     position: relative;
     left: -50px;
-    height: 350px;
+    height: 300px;
 }
 .item p{
     margin-top: 10px;
