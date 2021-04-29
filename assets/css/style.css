@@ -211,18 +211,18 @@ main{
     }
     .item-image{
         overflow: hidden;
-        width: 150px;
+        width: 120px;
         border-radius: 15px;
     }
     .item img{
         position: relative;
         left: -50px;
-        height: 150px;
+        height: 120px;
     }
     .item p{
-        margin-top: 10px;
+        margin-top: 0px;
         font-weight: bolder;
-        font-size: .9em;
+        font-size: .8em;
     }
     .grana span{
         font-size: .9em;
