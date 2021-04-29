@@ -87,9 +87,7 @@ main{
     border-radius: 10px;
 }
 .item img{
-    position: relative;
-    left: -50px;
-    height: 320px;
+    height: 220px;
 }
 .item p{
     margin-top: 10px;
@@ -230,6 +228,7 @@ footer{
         font-size: .9em;
         color: #5CA720;
     }
+
 }
 @media(max-width: 500px){
     .banner img{
