@@ -3,5 +3,5 @@
  
  link: https://luizlopes12.github.io/SelfCare/
  
-![imagem mobile](https://github.com/luizlopes12/SelfCare/blob/main/scr1.png)
-![imagem desktop](https://github.com/luizlopes12/SelfCare/blob/main/scr2.png)
+![imagem mobile](https://github.com/luizlopes12/SelfCare/blob/main/screenshots/scr3.png)
+![imagem desktop](https://github.com/luizlopes12/SelfCare/blob/main/screenshots/scr4.png)
